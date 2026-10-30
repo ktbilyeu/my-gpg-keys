@@ -1,22 +1,25 @@
-## Kaden Bilyeu (Bikatr7)'s GPG Keys
-This repo contains my GPG keys and emails for verification purposes.
+## Kaden Bilyeu (@ktbilyeu)'s GPG Keys
+
+This repository contains my public GPG keys and contact addresses for signature verification.
 
 ### GPG Keys
 #### Primary Key
-- Key ID: `0B9E128EFD7B39D9`
-- Subkey: `27CC01ED25A29B3E`
-- Fingerprint: `A847B38E6ED9DD387D8D03330B9E128EFD7B39D9`
-- Associated Email: Bikatr7@proton.me
+- Key ID: `3892C14B0FB530A6`
+- Fingerprint: `6C2E472AB65AC8812160B05C3892C14B0FB530A6`
+- Encryption subkey: `DD87BAE27D2551B4`
+- Primary email: [kadenbilyeu@proton.me](mailto:kadenbilyeu@proton.me)
+- [Download the public key](keys/kadenbilyeu_kadenbilyeu0%40gmail.com_and_kadenbilyeu%40proton%2Cme_public_key.asc)
 
-#### Other Keys
-See the `keys` directory for other keys I have.
+This is my existing key; the username change does not require a new key. The public export includes both the Proton address and the historical Gmail address.
+
+#### Historical and Other Keys
+
+The other public keys in the [`keys`](keys/) directory remain available to verify earlier signatures. Their cryptographic identity records are retained, with fingerprint-based filenames for the historical keys. They are not the primary key for new signatures, and this change does not revoke them.
 
 ### Primary Email Addresses
-- bikatr7@proton.me (Primary)
-- kadenbilyeu@proton.me (Secondary)
+- kadenbilyeu@proton.me (Primary)
 - kbilyeu@uccs.edu (School)
 
-### Deprecated Email Addresses
-These emails are no longer in use due to being gmail emails, but are still associated with my GPG keys. Do not contact me using these emails as you will not receive a response.
-- tetralon07@gmail.com (Old)
-- kadenbilyeu0@gmail.com (Old)
+### Historical Identity Records
+
+Earlier contact addresses remain embedded in the historical public keys for signature verification. Please use my primary Proton address for new correspondence.

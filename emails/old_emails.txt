@@ -1,3 +1,2 @@
-These emails are no longer in use due to being gmail emails, but are still associated with my GPG keys. 
-- tetralon07@gmail.com (Old)
-- kadenbilyeu0@gmail.com (Old)
+Earlier contact addresses remain embedded in the historical public keys for signature verification.
+Use kadenbilyeu@proton.me for new correspondence.
