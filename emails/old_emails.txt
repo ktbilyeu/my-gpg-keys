@@ -1,2 +1,0 @@
-Earlier contact addresses remain embedded in the historical public keys for signature verification.
-Use kadenbilyeu@proton.me for new correspondence.
